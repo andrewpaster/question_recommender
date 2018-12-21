@@ -1,4 +1,4 @@
-# Question Reccommender
+# Question Recommender
 
 ## Requirements
 * pandas
